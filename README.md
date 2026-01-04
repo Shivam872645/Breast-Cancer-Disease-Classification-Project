@@ -129,8 +129,6 @@ These visualizations help assess model behavior and training stability.
 
 ### Requirements
 
-```bash
-pip install numpy pandas scikit-learn matplotlib tensorflow
 
 
 
@@ -148,4 +146,8 @@ pip install numpy pandas scikit-learn matplotlib tensorflow
 ## 📌 Conclusion
 
 This project demonstrates the effectiveness of machine learning techniques in medical diagnostics. By combining interpretable models with deep learning approaches, the system achieves high reliability in breast cancer classification. Such methodologies have strong potential to assist clinicians, improve diagnostic accuracy, and support data-driven healthcare solutions.
+
+```bash
+pip install numpy pandas scikit-learn matplotlib tensorflow
+
 

@@ -131,3 +131,21 @@ These visualizations help assess model behavior and training stability.
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib tensorflow
+
+
+
+
+## 🔮 Future Scope
+
+- Implement k-fold cross-validation for more robust model evaluation  
+- Add ensemble methods such as Random Forest and Gradient Boosting  
+- Perform feature importance analysis and dimensionality reduction techniques  
+- Deploy the trained model using Streamlit or Flask for interactive use  
+- Extend the system to support real-time clinical decision-making  
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates the effectiveness of machine learning techniques in medical diagnostics. By combining interpretable models with deep learning approaches, the system achieves high reliability in breast cancer classification. Such methodologies have strong potential to assist clinicians, improve diagnostic accuracy, and support data-driven healthcare solutions.
+
